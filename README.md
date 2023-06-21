@@ -1,7 +1,6 @@
-
-
 # 💫 About Me:
-I am Currently Pursing PG Diploma in Data Science. I am explore new things. Find more about my works here.
+
+I am always ready to have new experiences, meet new people, and learn things. I am explore new things. Find more about my works here.
 
 
 ## 🌐 Socials:
