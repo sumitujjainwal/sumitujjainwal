@@ -1,4 +1,9 @@
-# 💫 About Me:
+💫 About Me:
+👋 Hi, I’m Sumit ujjainwal
+👀 I’m a Data Scientist Certified by IBM
+🌱 My topics of Interest are Machine Learning and AI
+💞️ Have Experience in AWS Deployment of Web Application
+📫 How to reach me sumitujjainwal7@gmail.com
 
 I am always ready to have new experiences, meet new people, and learn things. I am explore new things. Find more about my works here.
 
